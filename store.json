@@ -1,0 +1,100 @@
+[{
+        "name": "delux joggers",
+        "price": 5400,
+        "image": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fHQlMjBzaGlydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
+        "company": "pwer",
+        "category": "t-shirt",
+        "shipping": true,
+        "rating": 30
+    },
+    {
+        "name": "nike sneaker",
+        "price": 9000,
+        "image": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fHQlMjBzaGlydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
+        "company": "nike",
+        "category": "shoe",
+        "shipping": false,
+        "rating": 60
+    },
+    {
+        "name": "tys bag",
+        "price": 400,
+        "image": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fHQlMjBzaGlydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
+        "company": "tys",
+        "category": "bag",
+        "shipping": false,
+        "rating": 23
+    },
+    {
+        "name": "pwa gown",
+        "price": 6750,
+        "image": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fHQlMjBzaGlydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
+        "company": "pwa",
+        "category": "gown",
+        "shipping": true,
+        "rating": 89
+    },
+    {
+        "name": "skeleton",
+        "price": 4200,
+        "image": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fHQlMjBzaGlydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
+        "company": "dfamily",
+        "category": "t-shirt",
+        "shipping": true,
+        "rating": 143
+    },
+    {
+        "name": "tote bag",
+        "price": 2300,
+        "image": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fHQlMjBzaGlydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
+        "company": "deluxe",
+        "category": "bag",
+        "shipping": true,
+        "rating": 22
+    },
+    {
+        "name": "addidas yeezy",
+        "price": 22000,
+        "image": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fHQlMjBzaGlydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
+        "company": "addidas",
+        "category": "shoe",
+        "shipping": true,
+        "rating": 290
+    },
+    {
+        "name": "net cap",
+        "price": 1200,
+        "image": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fHQlMjBzaGlydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
+        "company": "pwer",
+        "category": "t-shirt",
+        "shipping": true,
+        "rating": 30
+    },
+    {
+        "name": "tighty",
+        "price": 3900,
+        "image": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fHQlMjBzaGlydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
+        "company": "dfamily",
+        "category": "gown",
+        "shipping": false,
+        "rating": 58
+    },
+    {
+        "name": "poster cap",
+        "price": 4100,
+        "image": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fHQlMjBzaGlydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
+        "company": "deluxe",
+        "category": "cap",
+        "shipping": true,
+        "rating": 111
+    },
+    {
+        "name": "flux gown",
+        "price": 5000,
+        "image": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fHQlMjBzaGlydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
+        "company": "dfamily",
+        "category": "gown",
+        "shipping": true,
+        "rating": 256
+    }
+]
