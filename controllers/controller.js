@@ -1,14 +1,7 @@
 const Store = require('../models/model')
 
 const getAllProducts = async(req, res) => {
-    let { featured, search, limit, sort, select, numericFilter } = req.query
-    const options = {
-        $gt: '>',
-        $gte: '>=',
-        $e: '=',
-        $lt: '<',
-        lte: '<=',
-    }
+    let { featured, search, limit, sort, select } = req.query
     try {
         switch (req.query) {
             case sort:
